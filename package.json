@@ -8,14 +8,11 @@
     "url": "https://github.com/andrewsuzuki/react-twitter-widgets/issues"
   },
   "homepage": "https://github.com/andrewsuzuki/react-twitter-widgets",
-  "main": "lib/index.js",
-  "module": "es/index.js",
+  "main": "src/index.js",
+  "module": "src/index.js",
   "types": "src/index.d.ts",
   "files": [
-    "src/index.d.ts",
-    "es",
-    "lib",
-    "umd"
+    "src"
   ],
   "dependencies": {
     "loadjs": "^4.2.0"
